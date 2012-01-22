@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello This Is SAS Server application!</string>
+    <string name="app_name">SAS_Server</string>
+    <string name="setlongvalue">"Longitude"</string>
+    <string name="setlatvalue">"Latitude"</string>
+    <string name="locationHeader">"*** SAS Server ***"</string>
+        
+    
+     
+
+</resources>
